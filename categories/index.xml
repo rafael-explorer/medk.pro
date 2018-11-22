@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Lime</title>
-    <link>https://demo.uicard.io/hugo-lime-free-demo/categories/</link>
-    <description>Recent content in Categories on Hugo Lime</description>
+    <title>Categories on MedK Pró</title>
+    <link>https://medkpro.netlify.com/categories/</link>
+    <description>Recent content in Categories on MedK Pró</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     
-	<atom:link href="https://demo.uicard.io/hugo-lime-free-demo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://medkpro.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

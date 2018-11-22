@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://demo.uicard.io/hugo-lime-free-demo/categories/</loc>
+    <loc>https://medkpro.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://demo.uicard.io/hugo-lime-free-demo/</loc>
+    <loc>https://medkpro.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://demo.uicard.io/hugo-lime-free-demo/tags/</loc>
+    <loc>https://medkpro.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
