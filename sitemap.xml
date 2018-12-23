@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://medkpro.netlify.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medkpro.netlify.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medkpro.netlify.com/tags/</loc>
+    <loc>https://medk.pro/</loc>
     <priority>0</priority>
   </url>
   

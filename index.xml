@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MedK Pró</title>
-    <link>https://medkpro.netlify.com/</link>
-    <description>Recent content on MedK Pró</description>
+    <title>MedK Pró: Integre sua clínica ao eSocial em 20 segundos</title>
+    <link>https://medk.pro/</link>
+    <description>Recent content on MedK Pró: Integre sua clínica ao eSocial em 20 segundos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="https://medkpro.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://medk.pro/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
